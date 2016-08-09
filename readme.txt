@@ -18,3 +18,5 @@ xiugai
 18:48 第七次 比较差异2
 
 21：46 no8 tracks changes of files//修改管理2
+
+21:54 no8 tracks changes //重做一遍修改，步骤应该为添加-修改-提交 （上次是添加-修改-添加-提交，所以没有看到变化）
