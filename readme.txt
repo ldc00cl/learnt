@@ -33,3 +33,6 @@ esc键退出编辑切换到命令模式
 
 0811 21：48 创建新分支dev
 Creating a new branch is quick
+
+22；22 创建新分支feature1,解决冲突
+Creating a new branch is quick and simple.
