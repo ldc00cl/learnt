@@ -32,4 +32,4 @@ esc键退出编辑切换到命令模式
 :e! 回车放弃所有修改不退出vi，回到上一次最后操作保存的状态
 
 0811 21：48 创建新分支dev
-Creating a new branch is quick
+Creating a new branch is quick & simplek
