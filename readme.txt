@@ -41,5 +41,11 @@ Creating a new branch is quick and simple.
 0813 23：09
 分支管理策略-非fast forward模式
 
+
+
 23：31
 fast forward模式，未用—no-ff参数。测试用git log观察是否有合并历史。
+//忘记在DEV分支提交（这里是在master分支提交的）
+=======
+0813 23:35 在dev分支上修改，不用—no-ff模测试看是否有分支历史git log
+重新在dev分支上提交，但是和master分支有了冲突
