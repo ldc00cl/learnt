@@ -37,3 +37,6 @@ esc键退出编辑切换到命令模式
 Creating a new branch is quick and simple.
 22：56修改合并
 ——————————————————合并冲突后的修改。
+
+0813 23：09
+分支管理策略-非fast forward模式
