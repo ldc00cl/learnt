@@ -40,3 +40,6 @@ Creating a new branch is quick and simple.
 
 0813 23：09
 分支管理策略-非fast forward模式
+
+0813 23:35 在dev分支上修改，不用—no-ff模测试看是否有分支历史git log
+
