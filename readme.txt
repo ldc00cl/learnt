@@ -40,3 +40,6 @@ Creating a new branch is quick and simple.
 
 0813 23：09
 分支管理策略-非fast forward模式
+
+23：31
+fast forward模式，未用—no-ff参数。测试用git log观察是否有合并历史。
